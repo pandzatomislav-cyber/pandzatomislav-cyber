@@ -2,7 +2,7 @@
 <h3 align="center">Data Analytics & Cloud Engineering | Azure | GCP | Dubai, UAE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Cloud+Engineering;Azure+%7C+GCP+%7C+Python+%7C+SQL;Building+end-to-end+data+pipelines;Turning+raw+data+into+business+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Python+%7C+SQL;Dashboards+%7C+Pipelines+%7C+Machine+Learning;Azure+%7C+GCP+%7C+Cloud+Engineering;Turning+raw+data+into+business+decisions" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,8 +47,8 @@ I build data pipelines, analytics dashboards, and cloud infrastructure that help
 |---|---|---|
 | [Dubai Real Estate Dashboard](https://github.com/pandzatomislav-cyber/dubai-realestate-dashboard) | Interactive analytics dashboard tracking property trends across Dubai | Python, Streamlit, Plotly |
 | [E-Commerce ETL Pipeline](https://github.com/pandzatomislav-cyber/ecommerce-etl-pipeline) | Automated pipeline: extract → transform → load → report | Python, SQLite, GitHub Actions |
-| [Azure Cloud Data Pipeline](https://github.com/pandzatomislav-cyber/azure-data-pipeline) | Serverless data ingestion and processing on Azure | Azure Blob, Azure Functions, Python |
-| [Customer Churn Prediction API](https://github.com/pandzatomislav-cyber/churn-prediction-api) | ML model deployed as a live REST API on GCP Cloud Run | Python, Scikit-learn, GCP |
+| [Azure Cloud Data Pipeline](https://github.com/pandzatomislav-cyber/azure-data-pipline) | Serverless data ingestion and processing on Azure | Azure Blob Storage, Python |
+| [Customer Churn Prediction API](https://github.com/pandzatomislav-cyber/customer-churn-predictions) | ML model deployed as a live REST API on GCP Cloud Run | Python, Scikit-learn, GCP |
 | [Multi-Cloud IaC with Terraform](https://github.com/pandzatomislav-cyber/multicloud-terraform) | Infrastructure as Code provisioning resources across Azure and GCP | Terraform |
 | [CI/CD Data Pipeline](https://github.com/pandzatomislav-cyber/cicd-data-pipeline) | Fully automated, containerised pipeline with testing and deployment | Docker, GitHub Actions |
 
@@ -57,7 +57,6 @@ I build data pipelines, analytics dashboards, and cloud infrastructure that help
 ## Certifications (In Progress)
 
 - Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure Developer Associate (AZ-204)
 - Google Cloud Associate Cloud Engineer
 
 ---
